@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(67, 131, 214);
+}
+
+center{
+    background-color: rgb(102, 172, 204);
+    max-width: 300px;
+    border-radius: 21px;
+    margin-left: 500px;
+    margin-right: 400px;
+}
+
+button{
+    border-radius: 10px;
+    background-color: rgb(160, 160, 223);
+    
+}
+
+input{
+    border-radius: 10px;
+}
